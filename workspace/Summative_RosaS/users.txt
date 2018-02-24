@@ -1,0 +1,11 @@
+java,club,562,46,47
+user1,hhh,26,26,0
+rosasun,rosa,18,18,0
+hello,world,0,0,0
+apple,juice,19,0,14
+Ronkiji,hi,181,8,52
+bababa,te,123,2,10
+helloimrosa,hi,45,44,1
+hi,hi,0,0,0
+rosa,sun,9,2,7
+roo,hey,110,84,26
